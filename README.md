@@ -1,5 +1,5 @@
-# Modmail Alpha
-Modmail Alpha is a Modmail Bot made in discord.py rewrite by SecretAyee
+# Modmail 
+Modmailis a Modmail Bot made in discord.py rewrite by SecretAyee
 Modmail is a bot that creates a shared inbox for all moderators to use.
 
 ## Installation and Setup
