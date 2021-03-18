@@ -24,9 +24,9 @@ There is no Setup Command! Just insert the guild id into the given place and BOO
 
 ```python
 =areply
-=snippet
+=snippet (shows all the snippet commanads)
 =help
-=vote
+=prefix (shows the changeprefix command)
 ```
 
 ## Need Help?
