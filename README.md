@@ -31,7 +31,7 @@ There is no Setup Command! Just insert the guild id into the given place and BOO
 
 ## Need Help?
 Join our Support server [here]( https://discord.gg/jcKUHR8pV8)
-Or Contact me on Discord <kbd>Custom#2021</kbd>
+Or Contact me on Discord <kbd>Custom#8833</kbd>
 
 
 ## Contributing
