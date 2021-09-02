@@ -1,5 +1,6 @@
 # Modmail 
-Modmail is a Modmail Bot made in discord.py rewrite by SecretAyee
+Modmail is a Modmail Bot made in discord.py rewrite by <kbd>Custom#8833</kbd>
+
 Modmail is a bot that creates a shared inbox for all moderators to use.
 
 ## Installation and Setup
