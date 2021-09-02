@@ -28,6 +28,8 @@ There is no Setup Command! Just insert the guild id into the given place and BOO
 =snippet (shows all the snippet commanads)
 =help (help command)
 =prefix (shows the changeprefix command)
+=prefix reset (reset prefix)
+=prefix change (change prefix)
 ```
 
 ## Need Help?
