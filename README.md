@@ -24,9 +24,9 @@ There is no Setup Command! Just insert the guild id into the given place and BOO
 ## Current Commands
 
 ```python
-=areply
+=areply (anonymous reply)
 =snippet (shows all the snippet commanads)
-=help
+=help (help command)
 =prefix (shows the changeprefix command)
 ```
 
