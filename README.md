@@ -7,7 +7,7 @@ Modmail is a bot that creates a shared inbox for all moderators to use.
 
 Open [repl.it](https://repl.it/) and in the shell execute the command:
 ```
-git clone https://github.com/SecretAyee/Modmail
+git clone https://github.com/Cu3t0m/Modmail
 ```
 Input your token in the specified place.
 Change the prefix if needed.
@@ -33,7 +33,7 @@ There is no Setup Command! Just insert the guild id into the given place and BOO
 ```
 
 ## Need Help?
-Join our Support server [here]( https://discord.gg/jcKUHR8pV8)
+Join our Support server [here](https://discord.gg/jcKUHR8pV8)
 Or Contact me on Discord <kbd>Custom#8833</kbd>
 
 
